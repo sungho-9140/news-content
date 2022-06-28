@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="error_text">Unable to load news</string>
+    <string name="webview_error">Can\'t open the url</string>
+    <string name="header_display_date">Date</string>
+    <string name="news_images">News image</string>
+
+    <!-- Samples -->
+    <string name="sample_display_name">Sample Display Name</string>
+    <string name="sample_display_value">04/19/2000</string>
+    <string name="sample_title">Sample title</string>
+    <string name="sample_subtitle">John Langford</string>
+    <string name="sample_description">This is sample description</string>
+
+</resources>
